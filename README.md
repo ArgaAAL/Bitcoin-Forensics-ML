@@ -1,7 +1,6 @@
 # 🕸️ Bitcoin Forensics: Deanonymizing Illicit Actors via Graph Learning
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArgaAAL.Bitcoin-Forensics-ML)
-[![GitHub Stars](https://img.shields.io/github/stars/ArgaAAL/Bitcoin-Forensics-ML?style=social)](https://github.com/ArgaAAL/Bitcoin-Forensics-ML/stargazers)
 
 > **A forensic framework leveraging Temporal Graph Networks (TGNs) and Gradient Boosting to detect ransomware, darknet markets, and illicit money flow on the Bitcoin blockchain.**
 
